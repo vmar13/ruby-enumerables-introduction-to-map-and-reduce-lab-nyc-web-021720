@@ -9,5 +9,6 @@ new_array
 end 
 
 def map_to_no_change(source_array)
-  original_array = []
+  original_array[0] = [source_array]
+end 
   
