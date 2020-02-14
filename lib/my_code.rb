@@ -19,13 +19,13 @@ original_array
 end  
 
 def map_to_no_double(source_array)
-  original_array = []
+  double_array = []
   i = 0
   while i < source_array.size do 
-  original_array.push(source_array[i]*1)
+  double_array.push(source_array[i]*2)
   i += 1 
 end 
-original_array 
+double_array 
 end   
 
 
