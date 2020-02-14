@@ -1,8 +1,8 @@
 def map_to_negativize(source_array)
   new_array = []
   i = 0
-  while i < map_to_negativize.length do 
-    new_array = map_to_negativize[i]
+  while i < source_array.length do 
+    # new_array = source_array[i]
     
   end 
   i += 1 
