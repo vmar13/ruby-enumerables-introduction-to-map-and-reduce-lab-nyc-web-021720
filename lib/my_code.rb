@@ -18,7 +18,7 @@ end
 original_array 
 end  
 
-def map_to_no_change(source_array)
+def map_to_no_double(source_array)
   original_array = []
   i = 0
   while i < source_array.size do 
