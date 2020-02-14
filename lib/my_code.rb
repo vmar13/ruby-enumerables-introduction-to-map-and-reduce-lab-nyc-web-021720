@@ -7,3 +7,4 @@ def map_to_negativize(source_array)
   i += 1 
 end 
 return new_array 
+end 
